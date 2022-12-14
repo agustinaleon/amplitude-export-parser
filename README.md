@@ -4,9 +4,9 @@
 
 ### Installing node dependencies
 
-´´´
+'''
 npm install
-´´´
+'''
 
 ### Exporting file with Amplitude API
 
