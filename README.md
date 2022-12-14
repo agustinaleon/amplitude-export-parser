@@ -4,9 +4,9 @@
 
 ### Installing node dependencies
 
-'''
+```
 npm install
-'''
+```
 
 ### Exporting file with Amplitude API
 
@@ -18,9 +18,9 @@ In the save.js file you will found a function that performs the exporting from A
 
 And finally run:
 
-´´´
+```
 node save.js
-´´´
+```
 
 ### Unzip the file
 
@@ -32,8 +32,8 @@ First, save the json files into a folder named "source" within the directory.
 
 Run the script using:
 
-´´´
+```
 node index.js
-´´´
+```
 
 And there you have it! You will have a csv with the data parsed from the amplitude json.
